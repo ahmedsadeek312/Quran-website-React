@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Quran-website-React/static/css/main.f84ceab1.css",
+    "main.js": "/Quran-website-React/static/js/main.2dbbb4ab.js",
+    "static/js/787.d4f9ceb1.chunk.js": "/Quran-website-React/static/js/787.d4f9ceb1.chunk.js",
+    "static/media/bg4.png": "/Quran-website-React/static/media/bg4.f2ef3935b8da77329585.png",
+    "index.html": "/Quran-website-React/index.html",
+    "main.f84ceab1.css.map": "/Quran-website-React/static/css/main.f84ceab1.css.map",
+    "main.2dbbb4ab.js.map": "/Quran-website-React/static/js/main.2dbbb4ab.js.map",
+    "787.d4f9ceb1.chunk.js.map": "/Quran-website-React/static/js/787.d4f9ceb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f84ceab1.css",
+    "static/js/main.2dbbb4ab.js"
+  ]
+}
